@@ -1,8 +1,8 @@
 # Blazeit
 ### testing
 <html>
-<title> To the other webpage...
-</title>
+<h3> to the other webpage
+</h3>
 <h4> Blazeit2
 </h4>
 <body>
