@@ -1,7 +1,7 @@
 # Blazeit
 ### https://toche420.github.io/Blazeit2/   <-- Copy and paste this to goto "Blazeit2";
 <html>
-<h3> VIDEOS ON BASIC HTML BELOW...
+<h3> VIDEOS ON BASIC HYPER-TEXT-MARKUP-LANGUAGE BELOW...
 </h3>
 <h4> https://www.youtube.com/watch?v=gSlG4LCl2Wk&t=15s
 </h4>
